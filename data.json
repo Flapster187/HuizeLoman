@@ -13,12 +13,6 @@
       "logs": []
     },
     {
-      "id": 5,
-      "name": "Afwassen / vaatwasser",
-      "interval": 2,
-      "logs": []
-    },
-    {
       "id": 6,
       "name": "Boodschappen doen",
       "interval": 3,
