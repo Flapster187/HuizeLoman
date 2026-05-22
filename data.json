@@ -59,7 +59,13 @@
       "name": "Douche schoonmaken",
       "interval": 14,
       "logs": []
+    },
+    {
+      "id": 26,
+      "name": "Wasbakken schoonmaken",
+      "interval": 14,
+      "logs": []
     }
   ],
-  "nextId": 26
+  "nextId": 27
 }
