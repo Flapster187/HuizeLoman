@@ -83,7 +83,13 @@
       "name": "Planten water",
       "interval": 14,
       "logs": []
+    },
+    {
+      "id": 31,
+      "name": "Poepbak verversen",
+      "interval": 21,
+      "logs": []
     }
   ],
-  "nextId": 31
+  "nextId": 32
 }
