@@ -53,7 +53,13 @@
       "name": "Vaatwasser legen",
       "interval": 2,
       "logs": []
+    },
+    {
+      "id": 25,
+      "name": "Douche schoonmaken",
+      "interval": 14,
+      "logs": []
     }
   ],
-  "nextId": 25
+  "nextId": 26
 }
