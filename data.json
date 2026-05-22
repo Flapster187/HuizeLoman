@@ -13,12 +13,6 @@
       "logs": []
     },
     {
-      "id": 6,
-      "name": "Boodschappen doen",
-      "interval": 3,
-      "logs": []
-    },
-    {
       "id": 8,
       "name": "Prullenbak legen",
       "interval": 7,
