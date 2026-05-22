@@ -89,7 +89,13 @@
       "name": "Poepbak verversen",
       "interval": 21,
       "logs": []
+    },
+    {
+      "id": 32,
+      "name": "Afvalzakken wegbrengen",
+      "interval": 14,
+      "logs": []
     }
   ],
-  "nextId": 32
+  "nextId": 33
 }
