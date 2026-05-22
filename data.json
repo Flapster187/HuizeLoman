@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Stofzuigen",
+      "interval": 7,
+      "logs": []
+    },
+    {
+      "id": 2,
+      "name": "Was draaien",
+      "interval": 4,
+      "logs": []
+    },
+    {
+      "id": 3,
+      "name": "Toilet schoonmaken",
+      "interval": 7,
+      "logs": []
+    },
+    {
+      "id": 4,
+      "name": "Dweilen",
+      "interval": 14,
+      "logs": []
+    },
+    {
+      "id": 5,
+      "name": "Afwassen / vaatwasser",
+      "interval": 2,
+      "logs": []
+    },
+    {
+      "id": 6,
+      "name": "Boodschappen doen",
+      "interval": 3,
+      "logs": []
+    },
+    {
+      "id": 7,
+      "name": "Badkamer schoonmaken",
+      "interval": 7,
+      "logs": []
+    },
+    {
+      "id": 8,
+      "name": "Prullenbak legen",
+      "interval": 7,
+      "logs": []
+    }
+  ],
+  "nextId": 20
+}
