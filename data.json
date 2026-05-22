@@ -59,7 +59,13 @@
       "name": "Was opvouwen",
       "interval": 3,
       "logs": []
+    },
+    {
+      "id": 22,
+      "name": "Was draaien",
+      "interval": 3,
+      "logs": []
     }
   ],
-  "nextId": 22
+  "nextId": 23
 }
