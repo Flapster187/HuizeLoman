@@ -53,7 +53,13 @@
       "name": "Was ophangen",
       "interval": 3,
       "logs": []
+    },
+    {
+      "id": 21,
+      "name": "Was opvouwen",
+      "interval": 3,
+      "logs": []
     }
   ],
-  "nextId": 21
+  "nextId": 22
 }
