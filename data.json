@@ -77,7 +77,13 @@
       "name": "Katten nagels",
       "interval": 21,
       "logs": []
+    },
+    {
+      "id": 30,
+      "name": "Planten water",
+      "interval": 14,
+      "logs": []
     }
   ],
-  "nextId": 30
+  "nextId": 31
 }
