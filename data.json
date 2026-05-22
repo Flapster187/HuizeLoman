@@ -47,7 +47,13 @@
       "name": "Prullenbak legen",
       "interval": 7,
       "logs": []
+    },
+    {
+      "id": 20,
+      "name": "Was ophangen",
+      "interval": 3,
+      "logs": []
     }
   ],
-  "nextId": 20
+  "nextId": 21
 }
