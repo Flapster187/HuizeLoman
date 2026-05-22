@@ -65,7 +65,13 @@
       "name": "Bank ontharen",
       "interval": 7,
       "logs": []
+    },
+    {
+      "id": 28,
+      "name": "Katten kammen",
+      "interval": 14,
+      "logs": []
     }
   ],
-  "nextId": 28
+  "nextId": 29
 }
