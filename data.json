@@ -59,7 +59,13 @@
       "name": "Was draaien",
       "interval": 3,
       "logs": []
+    },
+    {
+      "id": 23,
+      "name": "Wc schoonmaken",
+      "interval": 14,
+      "logs": []
     }
   ],
-  "nextId": 23
+  "nextId": 24
 }
