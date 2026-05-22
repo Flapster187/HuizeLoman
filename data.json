@@ -95,7 +95,13 @@
       "name": "Afvalzakken wegbrengen",
       "interval": 14,
       "logs": []
+    },
+    {
+      "id": 33,
+      "name": "Beddengoed verversen",
+      "interval": 21,
+      "logs": []
     }
   ],
-  "nextId": 33
+  "nextId": 34
 }
