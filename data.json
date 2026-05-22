@@ -71,7 +71,13 @@
       "name": "Katten kammen",
       "interval": 14,
       "logs": []
+    },
+    {
+      "id": 29,
+      "name": "Katten nagels",
+      "interval": 21,
+      "logs": []
     }
   ],
-  "nextId": 29
+  "nextId": 30
 }
