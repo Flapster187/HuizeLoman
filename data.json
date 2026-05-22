@@ -59,7 +59,13 @@
       "name": "Wasbakken schoonmaken",
       "interval": 14,
       "logs": []
+    },
+    {
+      "id": 27,
+      "name": "Bank ontharen",
+      "interval": 7,
+      "logs": []
     }
   ],
-  "nextId": 27
+  "nextId": 28
 }
