@@ -7,12 +7,6 @@
       "logs": []
     },
     {
-      "id": 3,
-      "name": "Toilet schoonmaken",
-      "interval": 7,
-      "logs": []
-    },
-    {
       "id": 4,
       "name": "Dweilen",
       "interval": 14,
