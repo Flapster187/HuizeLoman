@@ -46,7 +46,12 @@
       "id": 24,
       "name": "Vaatwasser legen",
       "interval": 2,
-      "logs": []
+      "logs": [
+        {
+          "by": "Jasper",
+          "date": "2026-05-23"
+        }
+      ]
     },
     {
       "id": 25,
